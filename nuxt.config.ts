@@ -4,4 +4,5 @@ export default defineNuxtConfig({
   baseURL: '/opt6/',
   buildAssetsDir: 'assets',
  },
+ ssr: false,
 });
